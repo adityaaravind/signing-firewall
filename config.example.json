@@ -1,0 +1,1 @@
+{"allowed_delegations":[],"allowlist":["vendor-001","payroll-001","ops-001"],"dual_approval_threshold":10000,"host":"127.0.0.1","port":8765,"rpc_url":"https://ethereum.publicnode.com","timelock_seconds":60,"timelock_threshold":100000,"velocity_limit":50000,"velocity_window_seconds":600,"watch_interval_seconds":60,"watched_addresses":[]}
